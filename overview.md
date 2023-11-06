@@ -10,11 +10,11 @@
 
 ## [ASP.NET Razor Pages](https://youtu.be/UNMfTGiAR2c?t=1282)
 
-## [Usando Razor](https://youtu.be/UNMfTGiAR2c?t=1465)
+## [Preparando ambiente](https://youtu.be/UNMfTGiAR2c?t=1465)
 
 <!--
 # MASTERCLASS - ASP.NET Razor na prática
-## Usando Razor
+## Preparando ambiente
 --------------
 
 # MASTERCLASS - ASP.NET Razor na prática
@@ -23,5 +23,5 @@
 ## Entendendo como funciona o Dot Net, Asp Net e Razor
 ## O que é e qual a necessidade do Razor
 ## ASP.NET Razor Pages
-## Usando Razor
+## Preparando ambiente
 -->
