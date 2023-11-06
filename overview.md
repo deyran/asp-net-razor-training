@@ -14,9 +14,11 @@
 
 ## [Primeira Razor Page](https://youtu.be/UNMfTGiAR2c?t=1760)
 
+## [Entendendo funcionamento da Razor Page](https://youtu.be/UNMfTGiAR2c?t=2121)
+
 <!--
 # MASTERCLASS - ASP.NET Razor na prática
-## Primeira Razor Page
+## Entendendo funcionamento da Razor Page
 --------------
 
 # MASTERCLASS - ASP.NET Razor na prática
@@ -27,4 +29,5 @@
 ## ASP.NET Razor Pages
 ## Preparando ambiente
 ## Primeira Razor Page
+## Entendendo funcionamento da Razor Page
 -->
