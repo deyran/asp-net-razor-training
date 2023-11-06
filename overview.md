@@ -6,13 +6,16 @@
 
 ## [Entendendo como funciona o Dot Net, Asp Net e Razor](https://youtu.be/UNMfTGiAR2c?t=937)
 
+## [O que é e qual a necessidade do Razor](https://youtu.be/UNMfTGiAR2c?t=1097)
+
 <!--
 # MASTERCLASS - ASP.NET Razor na prática
-## Entendendo como funciona o Dot Net, Asp Net e Razor
+## O que é e qual a necessidade do Razor
 --------------
 
 # MASTERCLASS - ASP.NET Razor na prática
 ## Pontuando - Dot Net, Asp Net e C#
 ## Criando uma aplicação usando Windows Power Shell
 ## Entendendo como funciona o Dot Net, Asp Net e Razor
+## O que é e qual a necessidade do Razor
 -->
