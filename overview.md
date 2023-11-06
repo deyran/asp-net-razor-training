@@ -8,9 +8,11 @@
 
 ## [O que é e qual a necessidade do Razor](https://youtu.be/UNMfTGiAR2c?t=1097)
 
+## [ASP.NET Razor Pages](https://youtu.be/UNMfTGiAR2c?t=1282)
+
 <!--
 # MASTERCLASS - ASP.NET Razor na prática
-## O que é e qual a necessidade do Razor
+## ASP.NET Razor Pages
 --------------
 
 # MASTERCLASS - ASP.NET Razor na prática
@@ -18,4 +20,5 @@
 ## Criando uma aplicação usando Windows Power Shell
 ## Entendendo como funciona o Dot Net, Asp Net e Razor
 ## O que é e qual a necessidade do Razor
+## ASP.NET Razor Pages
 -->
