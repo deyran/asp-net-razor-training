@@ -12,9 +12,11 @@
 
 ## [Preparando ambiente](https://youtu.be/UNMfTGiAR2c?t=1465)
 
+## [Primeira Razor Page](https://youtu.be/UNMfTGiAR2c?t=1760)
+
 <!--
 # MASTERCLASS - ASP.NET Razor na prática
-## Preparando ambiente
+## Primeira Razor Page
 --------------
 
 # MASTERCLASS - ASP.NET Razor na prática
@@ -24,4 +26,5 @@
 ## O que é e qual a necessidade do Razor
 ## ASP.NET Razor Pages
 ## Preparando ambiente
+## Primeira Razor Page
 -->
