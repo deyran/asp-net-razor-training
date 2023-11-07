@@ -2,6 +2,7 @@
 
 ## Criando uma aplicação usando Visual Studio
 
+1. Criar novo projeto
 
 <!--
 # MASTERCLASS - ASP.NET Razor na prática
