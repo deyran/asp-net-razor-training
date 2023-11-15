@@ -13,6 +13,19 @@
 </head>
 <body>
     <h1>Categories</h1>
+
+    <ul>
+        <li>
+            <a href="~/">Home</a>
+        </li>
+        <li>
+            <a href="~/About">About</a>
+        </li>
+        <li>
+            <a href="~/Login">Login</a>
+        </li>
+    </ul>
+
     <div>
         <table>
             <thead>
@@ -29,7 +42,7 @@
                 </tr>
             </thead>
             <tbody>
-                @foreach(var category in Model.Categories)
+                @foreach (var category in Model.Categories)
                 {
                     <tr>
                         <td>@category.Id</td>
