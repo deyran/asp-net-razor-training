@@ -1,34 +1,4 @@
 ﻿@page 
 @model IndexModel
 
-@{
-   // Layout = "Shared/_Layout";
-}
-
-<h1>Categories</h1>
-
-<table>
-    <thead>
-        <tr>
-            <td>
-                Id
-            </td>
-            <td>
-                Title
-            </td>
-            <td>
-                Price
-            </td>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var category in Model.Categories)
-        {
-            <tr>
-                <td>@category.Id</td>
-                <td>@category.Title</td>
-                <td>@category.Price.ToString(format: "C") </td>
-            </tr>
-        }
-    </tbody>
-</table>
+<h1>Início</h1>
