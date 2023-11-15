@@ -2,11 +2,6 @@
 @model MyRazorApp.Pages.IndexModel
 
 @{
-    /*
-     1. Every Razor page start with @page
-
-     */
-
     Layout = null;
 }
 
@@ -17,11 +12,33 @@
     <title></title>
 </head>
 <body>
+    <h1>Categories</h1>
     <div>
-        @for (var i = 0; i <= 10; i++)
-        {
-            <p>Item @i</p>
-        }
+        <table>
+            <thead>
+                <tr>
+                    <td>
+                        Id
+                    </td>
+                    <td>
+                        Title
+                    </td>
+                    <td>
+                        Price
+                    </td>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var category in Model.Categories)
+                {
+                    <tr>
+                        <td>@category.Id</td>
+                        <td>@category.Title</td>
+                        <td>@category.Price.ToString(format: "C") </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
     </div>
 </body>
 </html>
