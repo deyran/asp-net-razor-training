@@ -8,7 +8,7 @@ namespace MyRazorApp.Pages
         public List<Category> Categories { get; set; } = new();
         public async Task OnGet()
         {
-            await Task.Delay(5000);
+           // await Task.Delay(5000);
 
             for(var i = 0;  i < 100; i++) 
             {
