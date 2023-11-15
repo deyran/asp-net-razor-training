@@ -28,3 +28,4 @@ C:\git-projects\asp-net-razor-training\MyRazorApp\obj\Debug\net7.0\refint\MyRazo
 C:\git-projects\asp-net-razor-training\MyRazorApp\obj\Debug\net7.0\MyRazorApp.pdb
 C:\git-projects\asp-net-razor-training\MyRazorApp\obj\Debug\net7.0\MyRazorApp.genruntimeconfig.cache
 C:\git-projects\asp-net-razor-training\MyRazorApp\obj\Debug\net7.0\ref\MyRazorApp.dll
+C:\git-projects\asp-net-razor-training\MyRazorApp\obj\Debug\net7.0\MyRazorApp.sourcelink.json

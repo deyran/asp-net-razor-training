@@ -16,10 +16,10 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
+// Support to create URL customized and to finding a simple page
 app.UseRouting();
+app.MapRazorPages();
 
 app.UseAuthorization();
-
-app.MapRazorPages();
 
 app.Run();

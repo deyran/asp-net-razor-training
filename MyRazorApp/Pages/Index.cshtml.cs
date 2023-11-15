@@ -1,20 +1,31 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace MyRazorApp.Pages
 {
     public class IndexModel : PageModel
     {
-        private readonly ILogger<IndexModel> _logger;
-
-        public IndexModel(ILogger<IndexModel> logger)
+        public List<Category> Categories { get; set; } = new();
+        public async Task OnGet()
         {
-            _logger = logger;
-        }
+            await Task.Delay(5000);
 
-        public void OnGet()
-        {
-
+            for(var i = 0;  i < 100; i++) 
+            {
+                Categories.Add(
+                    new Category(
+                        i,
+                        $"Category {i}",
+                        1 * 18.25M
+                        )
+                    );
+            }
         }
     }
+
+    public record Category(
+        int Id,
+        string Title,
+        decimal Price
+    );
 }
