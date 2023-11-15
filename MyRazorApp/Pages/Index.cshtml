@@ -1,5 +1,6 @@
 ﻿@page
 @model MyRazorApp.Pages.IndexModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 
 @{
     Layout = null;
@@ -13,18 +14,8 @@
 </head>
 <body>
     <h1>Categories</h1>
-
-    <ul>
-        <li>
-            <a href="~/">Home</a>
-        </li>
-        <li>
-            <a href="~/About">About</a>
-        </li>
-        <li>
-            <a href="~/Login">Login</a>
-        </li>
-    </ul>
+    
+    <partial name="Shared/NavMenuPartial" />    
 
     <div>
         <table>
