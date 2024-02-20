@@ -12,8 +12,14 @@
 * In the file *Program.cs* we can see the following lines of code
 
 1. *var builder = WebApplication.CreateBuilder(args);*
+    1. *WebApplication.CreateBuilder(args);*: This method creates a *builder* instance for configuring and building the application.
+    2. The *args* parameter typically contains commad-line arguments passed to the application.
 
 2. *var app:WebApplication = builder.Build();*
     1. *builder*: variable created in the previous item. The builder contains information about services, configuration, logging, and other aspects of the app.
     2. *Build()*: creates an instance of the *WebApplication*. It finalizes the configuration an sets up the application to handle incoming requests
     3. *var app:WebApplication*: Is a WebApplication instance assigned in the app variable that represents the ASP.NET Core web application.
+
+* Talking about the *.csproj* file extension.
+    1. Each Visual Studio project has its own *.csproj* file.
+    2. The *.csproj* is a component that managing the project's configuration, dependencies and build process
