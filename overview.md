@@ -7,6 +7,8 @@
 
 ## [Creating a Razor solution](https://youtu.be/UNMfTGiAR2c?t=894)
 
+* The *program.cs* file is a critical part of the applicarons' startup process.
+
 * In the file *Program.cs* we can see the following lines of code
 
 1. *var builder = WebApplication.CreateBuilder(args);*
