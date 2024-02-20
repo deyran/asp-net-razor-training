@@ -14,5 +14,4 @@
 2. *var app:WebApplication = builder.Build();*
     1. *builder*: variable created in the previous item. The builder contains information about services, configuration, logging, and other aspects of the app.
     2. *Build()*: creates an instance of the *WebApplication*. It finalizes the configuration an sets up the application to handle incoming requests
-    3. AAA
-    4. AAA
+    3. *var app:WebApplication*: Is a WebApplication instance assigned in the app variable that represents the ASP.NET Core web application.
