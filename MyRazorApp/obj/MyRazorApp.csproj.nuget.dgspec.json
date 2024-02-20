@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git-projects\\asp-net-razor-training\\MyRazorApp\\MyRazorApp.csproj": {}
+    "C:\\github-projects\\asp-net-razor-training\\MyRazorApp\\MyRazorApp.csproj": {}
   },
   "projects": {
-    "C:\\git-projects\\asp-net-razor-training\\MyRazorApp\\MyRazorApp.csproj": {
+    "C:\\github-projects\\asp-net-razor-training\\MyRazorApp\\MyRazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git-projects\\asp-net-razor-training\\MyRazorApp\\MyRazorApp.csproj",
+        "projectUniqueName": "C:\\github-projects\\asp-net-razor-training\\MyRazorApp\\MyRazorApp.csproj",
         "projectName": "MyRazorApp",
-        "projectPath": "C:\\git-projects\\asp-net-razor-training\\MyRazorApp\\MyRazorApp.csproj",
-        "packagesPath": "C:\\Users\\DEYVIDRANNYERE\\.nuget\\packages\\",
-        "outputPath": "C:\\git-projects\\asp-net-razor-training\\MyRazorApp\\obj\\",
+        "projectPath": "C:\\github-projects\\asp-net-razor-training\\MyRazorApp\\MyRazorApp.csproj",
+        "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
+        "outputPath": "C:\\github-projects\\asp-net-razor-training\\MyRazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DEYVIDRANNYERE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

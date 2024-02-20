@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ozGGJL3WdIoGQktUqU7zs/qi73th3S8OIk3L8JpngW6Kby9aQ607f5Os/VzEDPLb8sgwZmlvGApHi0UMPqJ4Aw==",
+  "dgSpecHash": "bB54mm0P8ocY3xcx8fKFPtlNO6ECCz6IPl8s36n57KlFinE0s2wH0UPid+YO2T5eQZIu77IJC/M2k0KkXc2u9g==",
   "success": true,
-  "projectFilePath": "C:\\git-projects\\asp-net-razor-training\\MyRazorApp\\MyRazorApp.csproj",
+  "projectFilePath": "C:\\github-projects\\asp-net-razor-training\\MyRazorApp\\MyRazorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
