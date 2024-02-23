@@ -10,9 +10,9 @@
 
 ### The program.cs file
 
-The *program.cs* file is a critical part of the applications' startup process.
+The program.cs file is used as an *entry point*. *Entry Point* refers to the initial point where the execution of a program begins 
 
-* In the file *Program.cs* we can see the following lines of code
+The *program.cs* file is a critical part of the applications' startup process. In the file *Program.cs* we can see the following lines of code
 
 1. *var builder = WebApplication.CreateBuilder(args);*
 
