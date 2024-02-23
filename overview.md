@@ -2,8 +2,7 @@
 
 * C# is language used to program our applications.
 * Dot net is the framework that work with C#.
-    1. What's a framework?
-    2. Dot net is a web framework.
+    A framework is a structure foundation upon which developers can build applications. It provides a set of tools, libraries, and best practices that allow developers to speed up the developement process by reusing commom functionalities and solving recurring problems.
 
 ## [Creating a Razor solution](https://youtu.be/UNMfTGiAR2c?t=894)
 
