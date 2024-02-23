@@ -14,12 +14,12 @@ The program.cs file is used as an *entry point*. *Entry Point* refers to the ini
 
 The *program.cs* file is a critical part of the applications' startup process. In the file *Program.cs* we can see the following lines of code
 
-1. *var builder = WebApplication.CreateBuilder(args);*
+1. **var builder = WebApplication.CreateBuilder(args);**
 
     1. *WebApplication.CreateBuilder(args);*: This method creates a *builder* instance for configuring and building the application.
     2. The *args* parameter typically contains commad-line arguments passed to the application.
 
-2. *var app:WebApplication = builder.Build();*
+2. **var app:WebApplication = builder.Build();**
    
     1. *builder*: variable created in the previous item. The builder contains information about services, configuration, logging, and other aspects of the app.
    
