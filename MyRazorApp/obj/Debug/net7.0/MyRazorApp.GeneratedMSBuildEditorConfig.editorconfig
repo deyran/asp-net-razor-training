@@ -9,53 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyRazorApp
 build_property.RootNamespace = MyRazorApp
-build_property.ProjectDir = c:\github-projects\asp-net-razor-training\MyRazorApp\
+build_property.ProjectDir = C:\git-projects\asp-net-razor-training\MyRazorApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\github-projects\asp-net-razor-training\MyRazorApp
+build_property.MSBuildProjectDirectory = C:\git-projects\asp-net-razor-training\MyRazorApp
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/github-projects/asp-net-razor-training/MyRazorApp/Pages/Categories.cshtml]
+[C:/git-projects/asp-net-razor-training/MyRazorApp/Pages/Categories.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/github-projects/asp-net-razor-training/MyRazorApp/Pages/Error.cshtml]
+[C:/git-projects/asp-net-razor-training/MyRazorApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/github-projects/asp-net-razor-training/MyRazorApp/Pages/Index.cshtml]
+[C:/git-projects/asp-net-razor-training/MyRazorApp/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/github-projects/asp-net-razor-training/MyRazorApp/Pages/Login.cshtml]
+[C:/git-projects/asp-net-razor-training/MyRazorApp/Pages/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/github-projects/asp-net-razor-training/MyRazorApp/Pages/Privacy.cshtml]
+[C:/git-projects/asp-net-razor-training/MyRazorApp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/github-projects/asp-net-razor-training/MyRazorApp/Pages/Shared/NavMenuPartial.cshtml]
+[C:/git-projects/asp-net-razor-training/MyRazorApp/Pages/Shared/NavMenuPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXE5hdk1lbnVQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/github-projects/asp-net-razor-training/MyRazorApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/git-projects/asp-net-razor-training/MyRazorApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/github-projects/asp-net-razor-training/MyRazorApp/Pages/_ViewImports.cshtml]
+[C:/git-projects/asp-net-razor-training/MyRazorApp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/github-projects/asp-net-razor-training/MyRazorApp/Pages/_ViewStart.cshtml]
+[C:/git-projects/asp-net-razor-training/MyRazorApp/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/github-projects/asp-net-razor-training/MyRazorApp/Pages/About.cshtml]
+[C:/git-projects/asp-net-razor-training/MyRazorApp/Pages/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-kh2dxft04v
 
-[c:/github-projects/asp-net-razor-training/MyRazorApp/Pages/Shared/_Layout.cshtml]
+[C:/git-projects/asp-net-razor-training/MyRazorApp/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9aw7s3prfw
