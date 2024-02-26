@@ -46,3 +46,5 @@ The *.csproj* file serves as the project file that defines the project structure
 
 </Project>
 ```
+
+https://youtu.be/UNMfTGiAR2c?t=1262
