@@ -12,7 +12,35 @@
 
 The program.cs file is used as an *entry point*. *Entry Point* refers to the initial point where the execution of a program begins 
 
-The *program.cs* file is a critical part of the applications' startup process. In the file *Program.cs* we can see the following lines of code
+The *program.cs* file is a critical part of the applications' startup process. In the file *Program.cs* we can see the following lines of code:
+
+```
+var builder = WebApplication.CreateBuilder(args);
+
+// Add services to the container.
+builder.Services.AddRazorPages();
+
+var app = builder.Build();
+
+// Configure the HTTP request pipeline.
+if (!app.Environment.IsDevelopment())
+{
+    app.UseExceptionHandler("/Error");
+    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+    app.UseHsts();
+}
+
+app.UseHttpsRedirection();
+app.UseStaticFiles();
+
+// Support to create URL customized and to finding a simple page
+app.UseRouting();
+app.MapRazorPages();
+
+app.UseAuthorization();
+
+app.Run();
+```
 
 1. **var builder = WebApplication.CreateBuilder(args);**
 
@@ -26,6 +54,8 @@ The *program.cs* file is a critical part of the applications' startup process. I
     2. *Build()*: creates an instance of the *WebApplication*. It finalizes the configuration an sets up the application to handle incoming requests
    
     3. *var app:WebApplication*: Is a WebApplication instance assigned in the app variable that represents the ASP.NET Core web application.
+
+In the code below we can see an example of the content of the program.cs file
 
 ### The .csproj file
 
