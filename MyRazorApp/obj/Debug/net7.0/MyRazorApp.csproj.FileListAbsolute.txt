@@ -29,3 +29,4 @@ C:\git-projects\asp-net-razor-training\MyRazorApp\obj\Debug\net7.0\MyRazorApp.pd
 C:\git-projects\asp-net-razor-training\MyRazorApp\obj\Debug\net7.0\MyRazorApp.genruntimeconfig.cache
 C:\git-projects\asp-net-razor-training\MyRazorApp\obj\Debug\net7.0\ref\MyRazorApp.dll
 C:\git-projects\asp-net-razor-training\MyRazorApp\obj\Debug\net7.0\MyRazorApp.sourcelink.json
+C:\git-projects\asp-net-razor-training\MyRazorApp\obj\Debug\net7.0\scopedcss\Pages\About.cshtml.rz.scp.css

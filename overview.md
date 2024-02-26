@@ -6,7 +6,7 @@
 
 * C# is the language used to build applications using Razor Pages framework
   
-## [Basic structure of a Razor solution](https://youtu.be/UNMfTGiAR2c?t=894)
+## [Basic structure and file of a Razor solution](https://youtu.be/UNMfTGiAR2c?t=894)
 
 ### The program.cs file
 
@@ -27,8 +27,22 @@ The *program.cs* file is a critical part of the applications' startup process. I
    
     3. *var app:WebApplication*: Is a WebApplication instance assigned in the app variable that represents the ASP.NET Core web application.
 
-### The .csproj file extension
+### The .csproj file
 
-* Talking about the *.csproj* file extension.
-    1. Each Visual Studio project has its own *.csproj* file.
-    2. The *.csproj* is a component that managing the project's configuration, dependencies and build process
+The *.csproj* file serves as the project file that defines the project structure, dependencies, build settings, and other essential details. We can see the content of a .csproj file in the code below
+
+```
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\imgs\" />
+  </ItemGroup>
+
+</Project>
+```
