@@ -10,9 +10,7 @@
 
 ### The program.cs file
 
-The program.cs file is used as an *entry point*. *Entry Point* refers to the initial point where the execution of a program begins 
-
-The *program.cs* file is a critical part of the applications' startup process. In the file *Program.cs* we can see the following lines of code:
+When the Razor application runs, the first thing executed is the program.cs file (entry point). This program is responsible for configuring web host and services and initializing the application. In the file *Program.cs* we can see the following lines of code:
 
 ```
 var builder = WebApplication.CreateBuilder(args);
