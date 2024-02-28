@@ -1,8 +1,0 @@
-C:\git-projects\asp-net-razor-training\MyRazorApp\obj\Debug\net7.0\MyRazorApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\git-projects\asp-net-razor-training\MyRazorApp\obj\Debug\net7.0\MyRazorApp.AssemblyInfoInputs.cache
-C:\git-projects\asp-net-razor-training\MyRazorApp\obj\Debug\net7.0\MyRazorApp.AssemblyInfo.cs
-C:\git-projects\asp-net-razor-training\MyRazorApp\obj\Debug\net7.0\MyRazorApp.csproj.CoreCompileInputs.cache
-C:\git-projects\asp-net-razor-training\MyRazorApp\obj\Debug\net7.0\MyRazorApp.MvcApplicationPartsAssemblyInfo.cache
-C:\git-projects\asp-net-razor-training\MyRazorApp\obj\Debug\net7.0\MyRazorApp.RazorAssemblyInfo.cache
-C:\git-projects\asp-net-razor-training\MyRazorApp\obj\Debug\net7.0\MyRazorApp.RazorAssemblyInfo.cs
-C:\git-projects\asp-net-razor-training\MyRazorApp\obj\Debug\net7.0\MyRazorApp.sourcelink.json
