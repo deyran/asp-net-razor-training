@@ -79,4 +79,10 @@ The *.csproj* file serves as the project file that defines the project structure
 </Project>
 ```
 
-https://youtu.be/UNMfTGiAR2c?t=1262
+## Overview
+
+* "~/" root of application
+* Dynamic pages in the Page folder create the actual files in the wwwroot folder.
+* Partial View are snippets of code that repeat. They are placed in the Shared folder.
+* 
+https://youtu.be/UNMfTGiAR2c?t=3911
