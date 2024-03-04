@@ -52,7 +52,11 @@ app.Run();
     2. *Build()*: creates an instance of the *WebApplication*. It finalizes the configuration an sets up the application to handle incoming requests
    
     3. *var app:WebApplication*: Is a WebApplication instance assigned in the app variable that represents the ASP.NET Core web application.
+   
+3. *builder.Services.AddRazorPages();*
 
+Adds services for Razor Pages to the app.
+   
 In the code below we can see an example of the content of the program.cs file
 
 ### The .csproj file
