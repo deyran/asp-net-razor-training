@@ -79,7 +79,7 @@ The *.csproj* file serves as the project file that defines the project structure
 </Project>
 ```
 
-## Overview
+## Partial View
 
 * "~/" root of application
 * Dynamic pages in the Page folder create the actual files in the wwwroot folder.
@@ -94,6 +94,4 @@ The *.csproj* file serves as the project file that defines the project structure
   <partial name="Shared/NavMenuPartial" />
   ```
 
-
-
-* AAAA
+## The _ViewImports.cshtml file 
