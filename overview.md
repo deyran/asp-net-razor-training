@@ -95,3 +95,20 @@ The *.csproj* file serves as the project file that defines the project structure
   ```
 
 ## The _ViewImports.cshtml file 
+
+The _ViewImports.cshtml file serves the following purposes:
+
+1. Centralizing Directives
+
+Instead of adding these directives individually to each page, you can defines them once in the _ViewImports.cshtml file
+
+2. Global Application
+
+1. The _ViewImports.cshtml file is placed in the Page folder by default
+
+3. Supported Directives
+4. Default Content
+5. Multiple files and Overrides
+-----------------------------------
+
+https://youtu.be/UNMfTGiAR2c?t=4237
