@@ -1,37 +1,8 @@
 ﻿@page
-@using System.Globalization
 @model IndexModel
 
 @{
-    Layout = null;
+    ViewData["Title"] = "Bem vindo a esta aplicação!!";
 }
 
-<html>
-<head>
-
-</head>
-<body>
-    <div>
-        <partial name="Shared/NavMenuPartial" />
-        <table>
-            <thead>
-                <tr>
-                    <td>Id</td>
-                    <td>Title</td>
-                    <td>Price</td>
-                </tr>
-            </thead>
-            <tbody>
-                @foreach (var item in Model.Categories)
-                {
-                    <tr>
-                        <td>@item.Id</td>
-                        <td>@item.Title</td>
-                        <td>@item.Price</td>
-                    </tr>
-                }
-            </tbody>
-        </table>
-    </div>
-</body>
-</html>
+<h1>Home</h1>

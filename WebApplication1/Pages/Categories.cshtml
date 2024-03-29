@@ -1,0 +1,26 @@
+﻿@page "~/categorias/{skip?}/{take?}"
+@model CategoriesModel
+
+@{
+    ViewData["Title"] = "Lista de categorias";
+}
+
+<table>
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Price</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Categories)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Title</td>
+                <td>@item.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>
